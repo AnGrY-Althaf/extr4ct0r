@@ -17,7 +17,11 @@ A powerful JavaScript security analysis tool written in Go, designed to help bug
 ## Installation
 
 ### Prerequisites
-- Go 1.20 or higher
+
+extr4ct0r requires Go 1.20 to install successfully. To install, just run the below command
+```bash
+go install github.com/AnGrY-Althaf/extr4ct0r@latest
+```
 
 ### Building from Source
 ```bash
