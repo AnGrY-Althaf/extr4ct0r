@@ -49,7 +49,7 @@ extr4ct0r -u https://example.com
 extr4ct0r -u https://example1.com,https://example2.com
 
 # Scan URLs from a file
-cat urls.txt | ./extr4ct0r
+cat urls.txt | extr4ct0r
 ```
 
 ### Interactive Menu (Not for piped input !!)
