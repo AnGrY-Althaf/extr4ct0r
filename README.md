@@ -43,10 +43,10 @@ go build -o extr4ct0r
 ### Command Line
 ```bash
 # Scan a single URL
-./extr4ct0r -u https://example.com
+extr4ct0r -u https://example.com
 
 # Scan multiple URLs
-./extr4ct0r -u https://example1.com,https://example2.com
+extr4ct0r -u https://example1.com,https://example2.com
 
 # Scan URLs from a file
 cat urls.txt | ./extr4ct0r
