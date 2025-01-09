@@ -26,7 +26,7 @@ go install github.com/AnGrY-Althaf/extr4ct0r@latest
 ### Building from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/extr4ct0r.git
+git clone https://github.com/AnGrY-Althaf/extr4ct0r.git
 cd extr4ct0r
 
 # Install dependencies
