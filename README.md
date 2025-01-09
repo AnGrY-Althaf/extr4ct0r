@@ -22,6 +22,7 @@ extr4ct0r requires Go 1.20 to install successfully. To install, just run the bel
 ```bash
 go install github.com/AnGrY-Althaf/extr4ct0r@latest
 ```
+## OR
 
 ### Building from Source
 ```bash
